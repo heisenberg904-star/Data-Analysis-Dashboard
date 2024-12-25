@@ -1,5 +1,3 @@
-
-
 ## Krishna Ecommerce Sales Dashboard Summary
 
 ## Project overview/objective
@@ -16,6 +14,7 @@ Overall Sales Performance:
 -	Total revenue (Sum of Amount)
 -	Total units sold (Sum of Quantity)
 -	Profit margin (Sum of Profit)
+
 -	Average order value (Sum of AOV)
 Sales by State:
 -	Visualizes sales distribution across different states.
@@ -33,7 +32,7 @@ Product Performance:
 [sales report.pdf](https://github.com/user-attachments/files/18246805/sales.report.pdf)
 
 # excel sheet used for solving problem :
-- [Details.csv]:(https://github.com/user-attachments/files/18246813/Details.csv)
+- [Details.csv](https://github.com/user-attachments/files/18246832/Details.csv)
 - [Orders.csv](https://github.com/user-attachments/files/18246817/Orders.csv)
 
 

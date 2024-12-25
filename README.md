@@ -9,21 +9,21 @@ https://app.powerbi.com/groups/me/reports/de384467-2e25-4cfb-a264-adb9c458b6aa?c
 ## Insight:
 This dashboard provides a high-level overview of key sales metrics for Krishna Ecommerce. It includes:
 Overall Sales Performance:
-•	Total revenue (Sum of Amount)
-•	Total units sold (Sum of Quantity)
-•	Profit margin (Sum of Profit)
-•	Average order value (Sum of AOV)
+-	Total revenue (Sum of Amount)
+-	Total units sold (Sum of Quantity)
+-	Profit margin (Sum of Profit)
+-	Average order value (Sum of AOV)
 Sales by State:
-•	Visualizes sales distribution across different states.
+-	Visualizes sales distribution across different states.
 Product Performance:
-Pie chart showing the proportion of sales by product category.
-•	Bar chart highlighting profit by sub-category.
-•	Customer Segmentation:
-•	Bar chart comparing sales by customer name.
-•	Payment Mode Analysis:
-•	Pie chart illustrating the distribution of sales by payment mode.
-•	Profit Trends:
-•	Bar chart showing profit by month.
+-Pie chart showing the proportion of sales by product category.
+-	Bar chart highlighting profit by sub-category.
+  Customer Segmentation:
+-	Bar chart comparing sales by customer name.
+	Payment Mode Analysis:
+-	Pie chart illustrating the distribution of sales by payment mode.
+	Profit Trends:
+-	Bar chart showing profit by month.
 
 
 

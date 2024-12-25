@@ -1,4 +1,7 @@
-[Details.csv](https://github.com/user-attachments/files/18246813/Details.csv)[Details.csv](https://github.com/user-attachments/files/18246809/Details.csv)# Krishna Ecommerce Sales Dashboard Summary
+
+
+## Krishna Ecommerce Sales Dashboard Summary
+
 ## Project overview/objective
 Created interactive dashboard to track and analyze online sales data.Used complex parameter to drill down in worksheet and customization using filters and slicers.
 Created connections ,join new tables, calculation to manipulate data and enable user driven parameters for visualizations.
@@ -6,6 +9,7 @@ Used different types of customized visualization (bar chart, pie chart, donut ch
 
 # Powerbi project link: 
 https://app.powerbi.com/groups/me/reports/de384467-2e25-4cfb-a264-adb9c458b6aa?ctid=a1676fba-68c5-4a44-99a4-781fcf2e1756&experience=power-bi
+
 ## Insight:
 This dashboard provides a high-level overview of key sales metrics for Krishna Ecommerce. It includes:
 Overall Sales Performance:
@@ -27,6 +31,13 @@ Product Performance:
 
 # Sales report PDF:
 [sales report.pdf](https://github.com/user-attachments/files/18246805/sales.report.pdf)
+
+# excel sheet used for solving problem :
+- [Details.csv]:(https://github.com/user-attachments/files/18246813/Details.csv)
+- [Orders.csv](https://github.com/user-attachments/files/18246817/Orders.csv)
+
+
+
 
 
 

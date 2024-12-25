@@ -1,4 +1,4 @@
-# Krishna Ecommerce Sales Dashboard Summary
+[Details.csv](https://github.com/user-attachments/files/18246813/Details.csv)[Details.csv](https://github.com/user-attachments/files/18246809/Details.csv)# Krishna Ecommerce Sales Dashboard Summary
 ## Project overview/objective
 Created interactive dashboard to track and analyze online sales data.Used complex parameter to drill down in worksheet and customization using filters and slicers.
 Created connections ,join new tables, calculation to manipulate data and enable user driven parameters for visualizations.
@@ -24,6 +24,14 @@ Product Performance:
 -	Pie chart illustrating the distribution of sales by payment mode.
 	Profit Trends:
 -	Bar chart showing profit by month.
+
+# Sales report PDF:
+[sales report.pdf](https://github.com/user-attachments/files/18246805/sales.report.pdf)
+
+
+
+
+
 
 
 
